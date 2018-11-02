@@ -21,3 +21,7 @@ npm start
 ```shell
 npm run deploy
 ```
+
+## LICENSE
+
+[CC-BY-SA-4.0](./LICENSE)
